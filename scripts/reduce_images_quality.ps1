@@ -3,7 +3,7 @@
 	
 	Author: Ronan Lucio Pereira
 
-	Inspired in the follow posts:
+	Inspired on the follow posts:
 	https://github.com/bpatra/powershell/blob/master/JPegCompressRecursively.ps1
 	https://www.lewisroberts.com/2015/01/18/powershell-image-resize-function/
 #>
